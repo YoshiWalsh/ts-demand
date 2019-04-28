@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "lib": ["es6", "dom", "esnext.asynciterable"],
+        "sourceMap": true,
+        "rootDirs": [
+            "src/"
+        ],
+        "outDir": "./"
+    },
+    "exclude": [],
+    "include": [
+        "./src",
+    ]
+}
