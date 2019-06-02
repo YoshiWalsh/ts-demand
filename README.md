@@ -1,3 +1,7 @@
+# ts-demand
+
+[![](https://img.shields.io/npm/v/ts-demand.svg?style=flat)](https://npmjs.com/package/ts-demand)
+
 ## What is this?
 
 Sometimes you have to work with libraries that don't have typings, or have overly-permissive typings. This minimalist library allows you to request more specific/strict type checking.
